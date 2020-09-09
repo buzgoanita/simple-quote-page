@@ -1,0 +1,28 @@
+
+body {
+  background: url(assets/freedom.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+  
+
+article {
+  margin-top: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+  letter-spacing: .35em;
+  line-height: 1.58;
+  color: #333;
+  background-color: none;
+  max-width: calc(100vw-10px);
+}
+
+blockqoute {
+  text-transform: ;
+  font-size: 30px;
+}
+
+p {
+  font-style: italic;
+  font-size: 20px;
+}
